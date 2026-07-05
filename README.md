@@ -5,7 +5,7 @@ This template provides a streamlined setup to get React working in Vite with HMR
 ## To create a new project:
   1. Browse to the root project directory
   2. `npx degit jre95001/react-basic <new-project-name>`
-  3. `cd <new-project-name`
+  3. `cd <new-project-name>`
   4. `npm install`
   5. `npm run dev`
 
