@@ -8,6 +8,7 @@ This template provides a streamlined setup to get React working in Vite with HMR
   3. `cd <new-project-name>`
   4. `npm install`
   5. `npm run dev`
+  6. _Optional:_ Add a title for the application in `index.html`
 
 ## Git-Hub hosted?
 
